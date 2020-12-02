@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: post-6 test
 date: '2020-12-02'
 categories: []
 tags: []
