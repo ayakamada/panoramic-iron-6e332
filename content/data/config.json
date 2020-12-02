@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "description": "An ultra customizable generic theme for Stackbit",
     "header": {
-        "title": "KmdTestSite",
+        "title": "Kmd Test Site",
         "has_nav": true,
         "nav_links": [
             {
